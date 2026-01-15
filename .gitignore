@@ -1,0 +1,9 @@
+# Ignore Vivado/Quartus generated files
+*.log
+*.jou
+*.pb
+*.wdb
+*.str
+*.dir/
+/xsim.dir/
+.Xil/
