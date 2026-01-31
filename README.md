@@ -1,0 +1,1 @@
+This repository contains the Verilog HDL implementation of a 16-bit Arithmetic Logic Unit (ALU). The design supports 16 distinct arithmetic and logical operations, selected via a 4-bit opcode. It is designed to be synthesizable and has been verified using a custom testbench.
