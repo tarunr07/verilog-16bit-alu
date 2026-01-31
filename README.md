@@ -17,3 +17,6 @@ This ALU does the following functions:
 14. NOR (opc=4'b1101)
 15. NOT (opc=4'b1110)
 16. BUFFER (opc=4'b1111)
+
+Veriog HDL file is at alu_16bit.srcs/sources_1/new/alu_main.v
+Testbench file is at alu_16bit.srcs/sim_1/new/alu_tb.v
